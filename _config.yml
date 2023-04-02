@@ -1,0 +1,149 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: CSW8 S23 # TODO: displayed over the sidebar
+tagline: CSW 8 - Introduction to Computer Science # Shown as a title on the page
+description: Spring 2023 with Prof. K # TODO
+author: Yekaterina Kharitonova # TODO
+baseurl: '/s23' # TODO: the subpath of your site, e.g. /blog
+
+url: 'https://ucsb-csw8.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# TODO updtae custom variables
+www: 'https://ucsb-csw8.github.io/s23' # TODO: to enable using {{ site.www }}, instead of {{ site.url }}{{ site.baseurl }}
+due_time: '11:59PM' # TODO: also update it in the _modules script
+lab_day: 'Wednesday' # TODO: this day is used throughout the syllabus
+prof_intro: "Prof. Yekaterina Kharitonova (pronouns: she/they)" # used in the syllabus to introduce the prof
+classtime_intro: "TR, 9:30--10:45am PT (Pacific/California time),"
+syllabus_title: "(Spring 2023; Kharitonova)"
+
+# TODO: update the URLs if using Google forms
+# TODO: check that the forms are active
+anon_form: "https://forms.gle/jobjhJjWXsmcV3pp6"
+exceptions_form: "https://forms.gle/51uQCAtuG6e4We6Q8"
+regret_form: "https://forms.gle/H3cgP3p3imP1sscx9"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer last edited timestamp
+# https://pmarsceill.github.io/just-the-docs/docs/configuration/#footer-content
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit on GitHub"
+gh_edit_repository: "https://github.com/ucsb-csw8/s23" # TODO: the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+# Google Analytics Tracking (optional)
+#ga_tracking: UA-5555555-55
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+#theme: just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links: # TODO - update to yours
+  zyBooks:
+    - 'https://learn.zybooks.com/zybook/UCSBCMPSCW8Spring2023'
+  Piazza:
+    - 'https://piazza.com/class/lfzvdiw4so17io'
+  Gauchospace:
+    - 'https://gauchospace.ucsb.edu/courses/course/view.php?id=56099'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/528098'
+  "Main CS8 W Site":
+    - 'https://ucsb-csw8.github.io'
+aux_links_new_tab: true
+
+# TODO - change to your name
+footer_content: 'Yekaterina Kharitonova &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+  # Define a collection named "resource", its documents reside in the "_resource" directory
+  resource:
+#permalink: "/:collection/:path/"
+    permalink: "/:path/"
+    output: true
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+  - scope:
+      path: ''
+      type: resource
+    values:
+      layout: minimal
+
+###just_the_docs:
+### # Define which collections are used in just-the-docs
+### collections:
+###   # Reference the "resource" collection
+###   resource:
+###     # Give the collection a name
+###     name: Resource
+####     # Exclude the collection from the navigation
+####     # Supports true or false (default)
+###     nav_exclude: false
+####     # Exclude the collection from the search
+####     # Supports true or false (default)
+###     search_exclude: false
+
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
