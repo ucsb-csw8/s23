@@ -2,7 +2,7 @@
 name: Taanya Nithya Anand
 pronouns: She/her 
 role: Teaching Assistant
-photo: Taanya-NithyaAnand.png
+photo: CSW8-S23-Taanya-NithyaAnand.png
 ---
 
 Hello everyone, welcome to CSW8! My name is Taanya and I am a 1st year masters student in the Computer Science Department. My strong foundation for python
