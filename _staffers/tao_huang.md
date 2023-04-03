@@ -1,7 +1,7 @@
 ---
 name: Tao Huang
-pronouns: Him/his
 role: Teaching Assistant
+pronouns: Him/his
 photo: CS8_S23_Tao_Huang.png
 ---
 
