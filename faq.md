@@ -238,6 +238,11 @@ Yes, your latest submission will be the one that’s used for grading.
 
 No remote is necessary. You need to use either the web interface or install the iClicker app on a mobile device.
 
+### Are the answers graded?
+### Are the answers graded for correctness or participation?
+
+Please see the ["Grading Section" in the Syllabus]({{ site.www }}/about#grading) for the course policy regarding the iClicker grades.
+
 ---
 
 ## Course Components

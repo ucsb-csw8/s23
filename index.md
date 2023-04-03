@@ -1,10 +1,10 @@
 ---
 layout: default
-title: CSW8 (W23K)
+title: CMPSCW 8 
 nav_exclude: true
 seo:
   type: Course
-  name: UCSB CSW 8 S22 course materials
+  name: UCSB CSW 8 course materials
 ---
 
 # {{ site.tagline }}
