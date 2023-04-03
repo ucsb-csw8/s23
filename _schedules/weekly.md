@@ -36,7 +36,7 @@ schedule:
         location: XXX
   - name: Tuesday
     events:
-      - name: Lecture
+      - name: Class
         start: 9:30 AM
         end: 10:45 AM
         location: Zoom
@@ -80,7 +80,7 @@ schedule:
         location: XXX
   - name: Thursday
     events:
-      - name: Lecture
+      - name: Class
         start: 9:30 AM
         end: 10:45 AM
         location: Zoom
@@ -90,3 +90,4 @@ schedule:
         start: 10:00 AM
         end: 12:00 PM
         location: XXX
+---
