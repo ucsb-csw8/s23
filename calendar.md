@@ -16,8 +16,10 @@ We have the following course activities that need to be completed in zyBooks on 
 * **CA**{: .label .label-blue }(Challenge Activities), 
 * **LA**{: .label .label-green }(Lab Activities).
 
+<!--
 To make sure that you get started with the labs, we have **LA Checkpoints**{: .label .label-green }, which you will need to submit right after the labs.
 See more information in the [respective FAQ explanation]({{site.url}}/{{site.baseurl}}/faq#what-is-the-lab-checkpoint-score-in-gradebook).
+-->
 
 Additionally, at the end of each week, you are asked to reflect on your learning journey that week and submit a **Reflection** linked on Gauchospace.
 \* _During the first week, instead of the weekly reflection, you need to submit the **Welcome Survey** on Gauchospace._
