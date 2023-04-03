@@ -2,7 +2,6 @@
 name: Tao Huang
 pronouns: Him/his
 role: Teaching Assistant
-ta_for: CSW8
 photo: CS8_S23_Tao_Huang.png
 ---
 
