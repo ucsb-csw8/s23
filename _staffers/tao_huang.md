@@ -2,7 +2,7 @@
 name: Tao Huang
 role: Teaching Assistant
 pronouns: Him/his
-photo: CS8_S23_Tao_Huang.png
+photo: CS8-S23-Tao-Huang.png
 ---
 
 Hello, everyone! My name is Tao Huang and I am excited to be serving as a Teaching Assistant for CSW8. I am a first-year master student here
