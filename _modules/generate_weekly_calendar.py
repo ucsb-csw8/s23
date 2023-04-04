@@ -112,7 +112,7 @@ due_dates["Sun"] += f": Start: **PA**{{: .label .label-orange }}, **CA**{{: .lab
 
 ### Add classes/labs to the schedule
 due_dates[class_days[0]] += f": {class_time} **Class**{{: .label .label-purple }}\n"
-due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }}+**Quiz**{{: .label .label-red}}\n"
+due_dates[class_days[1]] += f": {class_time} **Class**{{: .label .label-purple }}+**Quiz**{{: .label .label-red }}\n"
 due_dates[lab_day] += f": **Lab sections**{{: .label .label-purple }}\n"
 
 ### NEW: Deadline for LA checkpoints (end of day, 11:59pm when lab occurs)  
@@ -187,7 +187,7 @@ admin_dates = {
 }
 
 start_month = 4 # jan
-start_day = 3 # apr 3 is first day of calendar 
+start_sunday = 2 # apr 2 is first day of calendar 
 start_week = 1
 exclude_weekends = False #True
 include_days_of_week = True # whether to include "Mon", "Tue" with the day
@@ -202,7 +202,7 @@ if exclude_weekends:
 
 
 month = start_month
-cur_day = start_day
+cur_day = start_sunday
 week = start_week
 
 while week < num_weeks: # loop through the weeks
@@ -240,10 +240,13 @@ while week < num_weeks: # loop through the weeks
                 else: # last week of the term (week 10) 
 #due_str = due_str.replace("\n : _Finish CA{{: .label .label-blue } + Start on PA{{: .label .label-orange }_", "")
 
-                    due_str = due_str.replace("+**Quiz**{{: .label .label-red}}", "")
-                    due_str = due_str.replace(", **Reflection**{{: .label .label-yellow }}", "") # dont include it, since there's one for the final project
-                    due_str = due_str.replace("**CA**{{: .label .label-blue }}","" ) # there are none in Ch10 (Files)
-                    due_str = due_str.replace(": _By the end of Sunday: Ideally, you should be finished with PAs for Chapter Y and done with the CAs for its first 4-5 sections._", ": _By the end of Sunday: Ideally, you should be finished with LAs for Chapter 10, which are used in the **final project**._")
+                    #print(due_str)
+                    #due_str = due_str.replace("+**Quiz**\{\{: .label .label-red\}\}", "")
+                    #due_str = due_str.replace("+**Quiz**\{{: .label .label-red\}}", "")
+                    due_str = due_str.replace("+**Quiz**{: .label .label-red }", "")
+                    due_str = due_str.replace(", **Reflection**{: .label .label-yellow }", "") # dont include it, since there's one for the final project
+                    due_str = due_str.replace(", **CA**{: .label .label-blue }","" ) # there are none in Ch10 (Files)
+                    #print(due_str)
 
                 due_str = due_str.replace("**PA**", f"**PA{this_week}**").replace("**CA**", f"**CA{this_week}**").replace("**LA**", f"**LA{last_week}**").replace("Chapter X", "Chapter "+this_week)
                 due_str = due_str.replace("Finish CA", f"Finish **CA{this_week}**")
