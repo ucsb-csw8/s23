@@ -60,8 +60,13 @@ Check your schedule on [GOLD](https://my.sa.ucsb.edu/gold/login.aspx).
 
 
 ### Can I change/switch my lab section?
-Yes, you are welcome to attend whichever lab section works with your schedule. 
-No need to get a new add code and switch it on GOLD. 
+
+~~Yes, you are welcome to attend whichever lab section works with your schedule. 
+No need to get a new add code and switch it on GOLD.~~
+
+**Updated 4/4 at 5pm**: Prof K sent the form for the section switch. We ask that you attend the section that you are registered for, so that we can balance the enrollment across the labs and have enough helpers to address everyone's questions.
+
+
 <!--
 Just make sure that when you are registering for your zyBook, you **select the section that you are _going to be attending_**.
 -->
