@@ -148,6 +148,10 @@ schedule:
         start: 2:00 PM
         end: 4:30 PM
         location: Lucas, Kimia (2-4)
+      - name: Office Hours
+        start: 5:00 PM
+        end: 7:00 PM
+        location: Xinlei
   - name: Friday
     events:
       - name: Office Hours
