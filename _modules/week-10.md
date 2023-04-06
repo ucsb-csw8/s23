@@ -1,6 +1,6 @@
 ---
 title: Week 10
-topic: Storing and Retrieving Data from Files
+topic: Exploiting self-similarity (Recursion)
 ---
 Sun, Jun 4
 : Start: **PA10**{: .label .label-orange }

@@ -1,6 +1,6 @@
 ---
 title: Week 4
-topic: Making decisions in programs (Branching)
+topic: Representing data (Types and Data Structures)
 ---
 Sun, Apr 23
 : Start: **PA04**{: .label .label-orange }, **CA04**{: .label .label-blue }

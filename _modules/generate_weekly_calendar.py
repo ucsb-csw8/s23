@@ -83,14 +83,14 @@ for day in days.values():
 topic = {
     1: "Introduction to Python 3",
     2: "Objects, Functions, and Expressions",
-    3: "Representing data (Types and Data Structures)",
-    4: "Making decisions in programs (Branching)",
+    3: "Making decisions in programs (Branching)",
+    4: "Representing data (Types and Data Structures)",
     5: "Writing reusable, generalizable code (Functions)",
     6: "Repeating and iterating (Loops)",
     7: "Lists and Dictionaries",
     8: "More Advanced Functions and Strings",
-    9: "Exploiting self-similarity (Recursion)",
-    10: "Storing and Retrieving Data from Files"
+    9: "Storing and Retrieving Data from Files",
+    10: "Exploiting self-similarity (Recursion)",
 }
 
 ### These notes are replaced with the specifics for each respective week below

@@ -1,6 +1,6 @@
 ---
 title: Week 3
-topic: Representing data (Types and Data Structures)
+topic: Making decisions in programs (Branching)
 ---
 Sun, Apr 16
 : Start: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }
