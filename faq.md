@@ -212,9 +212,16 @@ If you have multiple accounts on Piazza with different email addresses, you can 
 
 ### I do not see the "CSW 8" course on Gradescope and/or Piazza. What can I do?
 
-Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu) and activated it using the link that was sent to you by Piazza
+Make sure that you create your account using your **@umail.ucsb.edu** address (**_not_** @ucsb.edu) and activated it using the link that was sent to you by Piazza.
 
-You might need to go through the activation link in the email sent to you by Gradescope/Piazza.
+You might need to go through the **activation link in the email sent to you** by Gradescope/Piazza.
+
+If you are still having trouble logging in after you went through the activation link and possibly merged your accounts, try resetting your password:
+* Log out of Piazza if you are already logged in with another account.
+* Click "Login".
+* Click "Forgot your password?"
+* Enter your **@umail.ucsb.edu** email address (**not** @ucsb.edu).
+* Reset your password with the email sent to you.
 
 
 ---
