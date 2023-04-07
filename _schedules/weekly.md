@@ -141,7 +141,7 @@ schedule:
         end: 11:30 AM
         location: Prof K
       - name: Office Hours
-        start: 11:30 AM
+        start: 12:00 PM
         end: 2:00 PM
         location: Ajit, Tanya
       - name: Office Hours
