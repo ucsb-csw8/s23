@@ -61,13 +61,9 @@ schedule:
         end: 11:30 AM
         location: Prof K
       - name: Office Hours
-        start: 11:30 AM
-        end: 1:30 PM
-        location: Harsha
-      - name: Office Hours
         start: 12:30 PM
-        end: 2:00 PM
-        location: Taanya
+        end: 2:30 PM
+        location: Harsha, Taanya
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
