@@ -146,8 +146,8 @@ schedule:
         location: Ajit, Tanya
       - name: Office Hours
         start: 2:00 PM
-        end: 4:30 PM
-        location: Lucas, Kimia (2-4)
+        end: 4:00 PM
+        location: Lucas, Kimia
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
