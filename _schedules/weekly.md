@@ -125,7 +125,7 @@ schedule:
       - name: Office Hours
         start: 7:00 PM
         end: 9:00 PM
-        location: Hitomi
+        location: Hitomi, Ajit
   - name: Thursday
     events:
       - name: Office Hours
@@ -143,7 +143,7 @@ schedule:
       - name: Office Hours
         start: 12:00 PM
         end: 2:00 PM
-        location: Ajit, Tanya
+        location: Tanya
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
