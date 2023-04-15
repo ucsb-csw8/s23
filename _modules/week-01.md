@@ -27,7 +27,7 @@ Fri, Apr 7
 : 
 
 Sat, Apr 8
-: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue } - _extended until [**Week 2**](#week-2)_
 : **11:59pm** ⏰  Due: **Welcome survey**{: .label .label-yellow } on Gauchospace
 
 

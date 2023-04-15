@@ -11,7 +11,7 @@ Mon, Apr 10
 
 Tue, Apr 11
 : 09:30am **Class**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **LA01**{: .label .label-green }
+: **11:59pm**  ⏰  Due: **LA01**{: .label .label-green } - _extended until LA02 deadline_ (see [Week 3](#week-3))
 
 
 Wed, Apr 12
@@ -26,6 +26,7 @@ Fri, Apr 14
 : 
 
 Sat, Apr 15
-: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }, **Reflection**{: .label .label-yellow }
+: **11:59pm**  ⏰  _Extended Due Date_ for **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }, **Reflection Week 2**{: .label .label-yellow }
 
 
