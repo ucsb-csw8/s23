@@ -105,13 +105,16 @@ We will also use the following tools:
     2% Weekly reflection; 
        2 lowest/missing will be dropped
     8% Course Participation: in-class activities + iClicker 
-       4 lowest/missing will be dropped
+       ~~4~~ 5 lowest/missing will be dropped
+
 
 > Note: **There will be no midterms or final exams.** 
 
 Quizzes will be weekly unless announced otherwise during the previous week/class. 
 
-**iClicker participation** gets full credit if a student **responds** to 75% of questions asked during the class, rounded up (e.g., if there are 14 questions asked during the class you need to _answer_ 11 of them to get the participation point). Note that you do **not** need to get them all correct to get credit but there might occasionally be extra points for those who get all or almost all correctly answered.
+**iClicker participation** gets full credit if a student **responds** to ~~75%~~ 50% of questions asked during the class, rounded up (e.g., if there are 14 questions asked during the class you need to _answer_ ~~11~~ 7 of them to get the participation point).
+* iClicker is graded for participation.
+* Note that you do **not** need to get all questions correct to get credit but there might occasionally be extra points for those who get all or almost all correctly answered.
                                          
 Final course grade will use the 90/80/70/60 scale, with +/- grades (i.e., it is possible to get B-, B, B+, etc. for example, if your grade is somewhere between 80 and 90). 
 
@@ -257,6 +260,9 @@ Help us improve the effectiveness of the course for you personally, or for other
 
 ### Student Organizations and Resources
 
+*  If you need a loaner laptop, you can always get a Chromebook from Food and Basic Needs Advising opposite the campus store. You can borrow laptops for 30 days (for free!):
+**"Short Term Loaner Laptop Devices"** <https://food.ucsb.edu/resources/technology-resources>
+
 * Check out the [Student Computer Science & Engineering Organizations](https://cs.ucsb.edu/index.php/education/undergraduate/overview) at UCSB (scroll down to see the list with the links).
 
 * The [UCSB Resource Center for Sexual & Gender Diversity](http://rcsgd.sa.ucsb.edu/) maintains a list of [LGBTQ Student Organizations at UCSB](http://rcsgd.sa.ucsb.edu/get-involved/student-organizations).
@@ -277,3 +283,9 @@ If you have a resource that you would like us to link here, send us a message on
 
 Welcome to CSW 8! :-)
 
+
+### Update Log
+
+* 04-15: 
+    - The Syllabus was updated to drop more of the participation scores and lower the number of iClicker questions that would count the scores for credit.
+    - Added a resource for the "Short Term Loaner Laptop Devices"
