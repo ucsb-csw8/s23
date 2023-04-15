@@ -117,7 +117,8 @@ Contact `support@zybooks.com` and let them know that you are retaking the course
 ### How do I update my student ID in zyBooks?
 
 You can do it from the **My Subscription** tab, which you can access from the main zyBooks page that lists all chapters.
-See the instructions / screenshot posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
+See the instructions / screenshots posted on the [zyBooks Help Center](https://support.zybooks.com/hc/en-us/articles/360007536713-How-do-I-change-my-email-address-password-student-ID-or-class-section-)
+(also linked in the [Textbook instructions]({{ site.url }}{{ site.baseurl }}/textbook/#how-do-i-update-student-id-in-zybooks)).
 
 
 ### Is there an option for students who cannot currently afford the zybook subscription? Can I defer the purchase of the zyBook?
