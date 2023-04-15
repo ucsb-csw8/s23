@@ -67,7 +67,7 @@ If you run into an issue, check those sections first.
 
 * We also have a list of common errors, their causes and potential solutions: <https://ucsb-csw8.github.io/s23/ref/debug/>. 
     - Use it to search the page for an error that you get from Python.
-    - Let us know if you find an error that's not listed there - post on Piazza with the subject "New error for the Debugging page" and use [this template]({{site.url}}/{{site.baseurl}}/ref/debug/#template) or if you want to practice using GitHub, [contribute to the website directly](https://ucsb-csw8.github.io/s23/ref/debug/#contribute).
+    - OPTIONAL: Let us know if you find an error that's not listed there - post on Piazza with the subject "New error for the Debugging page" and use [this template]({{site.url}}/{{site.baseurl}}/ref/debug/#template) or if you want to practice using GitHub, [contribute to the website directly](https://ucsb-csw8.github.io/s23/ref/debug/#contribute).
 
 * A common issue is when students add a plural name where a word is supposed to be singular, and use a singular version where the code expects a plural - typically, if you get an `import` error, double check if that's an issue with your function name.
 
@@ -120,6 +120,6 @@ If you ever have any questions, please, _first_ consult the [course syllabus]({{
 > <span style="color:orange"> Your success in this course will largely depend on how carefully you read and follow the instructions.</span>
 
 
-See you in Week 3!
+I hope that this summary helped orient you to the course, the deadlines, as well as the resources that we provide you to succeed. I look forward to seeing you in Week 3!
 
 Prof. K and the mentors
