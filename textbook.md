@@ -46,6 +46,13 @@ It is important to get the **email and student ID number** correct.
 * If you don't, there may be delays in getting credit for your work
 * Please double check your entries for accuracy, otheriwse, your zyBooks scores will **not** show up in the gradebook on Gauchospace, resulting in **failing the class**.
 
+### Extension students
+
+If you are a UCSB Extension Pathway student, please make sure that you enter your student ID as shown on Gauchospace. 
+This is the correct ID, since we'll be synchronizing zyBook scores with Gauchospace.
+
+If your ID contains 8 digits, make sure to use all (and only) those digits that are shown to you on Gauchospace.
+
 
 ### How do I update student ID in zyBooks?
 
