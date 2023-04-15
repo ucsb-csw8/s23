@@ -105,14 +105,14 @@ We will also use the following tools:
     2% Weekly reflection; 
        2 lowest/missing will be dropped
     8% Course Participation: in-class activities + iClicker 
-       ~~4~~ 5 lowest/missing will be dropped
+       5 lowest/missing will be dropped
 
 
 > Note: **There will be no midterms or final exams.** 
 
 Quizzes will be weekly unless announced otherwise during the previous week/class. 
 
-**iClicker participation** gets full credit if a student **responds** to ~~75%~~ 50% of questions asked during the class, rounded up (e.g., if there are 14 questions asked during the class you need to _answer_ ~~11~~ 7 of them to get the participation point).
+**iClicker participation** gets full credit if a student **responds** to 50% of questions asked during the class, rounded up (e.g., if there are 14 questions asked during the class you need to _answer_ 7 of them to get the participation point).
 * iClicker is graded for participation.
 * Note that you do **not** need to get all questions correct to get credit but there might occasionally be extra points for those who get all or almost all correctly answered.
                                          
