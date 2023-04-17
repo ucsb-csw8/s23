@@ -37,7 +37,7 @@ schedule:
       - name: Office Hours
         start: 11:00 AM
         end: 1:00 PM
-        location: Ajit, Harsha
+        location: Ajit
       - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
