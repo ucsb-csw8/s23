@@ -102,11 +102,16 @@ Thus, if a student misses the checkpoint deadline, but fully completes all those
 
 ### Is the reading done on zybooks?
 
-Yes, zybooks is our “textbook.”
+Yes, zybooks is our “textbook.” See more information about it on the [Textbook]({{ site.url }}{{ site.baseurl }}/textbook)) page.
 
 ### Where do I find the zyBooks code to subscribe to the book?
 
-The access/enrollment code is posted on Gauchospace (see the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
+The access/enrollment code is posted on Gauchospace (and in the link in the [Syllabus]({{ site.url }}{{ site.baseurl }}/about#textbook)).
+
+
+### How do I get a refund if I drop the class?
+
+Yes, you should be able to get a refund: [for more information, see the zyBooks Help Center page](https://support.zybooks.com/hc/en-us/articles/360007323094-Can-I-get-a-refund-if-I-drop-my-class-or-I-m-waitlisted-and-don-t-get-in-).
 
 
 ### Do I have to buy the book if I am re-taking the class?
@@ -162,11 +167,16 @@ Related questions:
 * How many attempts do I have to submit zyBook activities? 
 * Do we have unlimited attempts to submit our labs?
 
-You have unlimited/infinite attempts. 
+You have unlimited/infinite attempts, which means that if your answer is incorrect, you can resubmit it without any penalty. 
 
 You can also work on the problems after the deadline, but your progress might not count toward your score.
 Check the Syllabus for the late submission policies.
 
+
+### Will I be penalized for using "Show Answer" option?
+No, there is no penalty for revealing the answer of the PA activities but we hope that it helps your learning.
+
+Some of the questions on the quiz are similar to the ones in the PAs, so knowing why the answer is right or wrong should help you do better on the quizzes.
 
 
 ### Should we wait to work on zybooks during lab?
