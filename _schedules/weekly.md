@@ -151,7 +151,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
-        location: Lucas, Kimia
+        location: Kimia
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
