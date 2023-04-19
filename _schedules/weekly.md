@@ -162,4 +162,8 @@ schedule:
         start: 10:00 AM
         end: 12:00 PM
         location: Carina
+      - name: Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Wesley
 ---
