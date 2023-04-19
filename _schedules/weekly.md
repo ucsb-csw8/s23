@@ -37,7 +37,7 @@ schedule:
       - name: Office Hours
         start: 11:00 AM
         end: 1:00 PM
-        location: Ajit, Harsha
+        location: Ajit
       - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
@@ -62,12 +62,12 @@ schedule:
         location: Prof K
       - name: Office Hours
         start: 11:30 AM
-        end: 1:30 PM
-        location: Harsha
+        end: 1:00 PM
+        location: Harsha, Taanya
       - name: Office Hours
-        start: 12:30 PM
+        start: 1:30 PM
         end: 2:00 PM
-        location: Taanya
+        location: Harsha, Taanya
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
@@ -141,13 +141,17 @@ schedule:
         end: 11:30 AM
         location: Prof K
       - name: Office Hours
-        start: 12:00 PM
+        start: 11:30 AM
+        end: 1:00 PM
+        location: Harsha, Taanya
+      - name: Office Hours
+        start: 1:30 PM
         end: 2:00 PM
-        location: Tanya
+        location: Harsha, Taanya
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
-        location: Lucas, Kimia
+        location: Kimia
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
@@ -162,4 +166,8 @@ schedule:
         start: 10:00 AM
         end: 12:00 PM
         location: Carina
+      - name: Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Wesley
 ---
