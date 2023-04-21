@@ -35,10 +35,6 @@ schedule:
         end: 10:00 AM
         location: Tao
       - name: Office Hours
-        start: 11:00 AM
-        end: 1:00 PM
-        location: Ajit
-      - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
         location: Carina
@@ -151,11 +147,11 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
-        location: Kimia
+        location: Kimia, Ajit
       - name: Office Hours
         start: 5:00 PM
         end: 7:00 PM
-        location: Xinlei
+        location: Xinlei, Ajit
   - name: Friday
     events:
       - name: Office Hours
