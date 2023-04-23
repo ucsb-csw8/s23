@@ -46,7 +46,18 @@ It is important to get the **email and student ID number** correct.
 * If you don't, there may be delays in getting credit for your work
 * Please double check your entries for accuracy, otheriwse, your zyBooks scores will **not** show up in the gradebook on Gauchospace, resulting in **failing the class**.
 
----
+### Extension students
 
-**Questions about zyBooks?** Wondering "Do I have to buy the book if I am re-taking the class"? See the answers on the [Frequently Asked Questions (FAQ) in CSW 8]({{ site.url }}{{ site.baseurl }}/faq/#zybooks) page.
+If you are a UCSB Extension Pathway student, please make sure that you enter your student ID as shown on Gauchospace. 
+This is the correct ID, since we'll be synchronizing zyBook scores with Gauchospace.
+
+If your ID contains 8 digits, make sure to use all (and only) those digits that are shown to you on Gauchospace.
+
+
+### How do I update student ID in zyBooks?
+
+You can do it from the **My Subscription** tab on the right-hand sidebar, which you can access from the main zyBooks page that lists all chapters. To see the most up-to-date screenshots, go to the [zyBooks Help Center](https://support.zybooks.com/hc/en-us/articles/360007536713-How-do-I-change-my-email-address-password-student-ID-or-class-section-).
+
+
+**Other questions about zyBooks?** Wondering "_Do I have to buy the book if I am re-taking the class_"? See the answers on the [Frequently Asked Questions (FAQ) in CSW 8]({{ site.url }}{{ site.baseurl }}/faq/#zybooks) page.
  

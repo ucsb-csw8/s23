@@ -11,6 +11,7 @@ Mon, Apr 17
 
 Tue, Apr 18
 : 09:30am **Class**{: .label .label-purple }
+: **11:59pm**  ⏰  _Extended Due Date_ for **LA01**{: .label .label-green } 
 : **11:59pm**  ⏰  Due: **LA02**{: .label .label-green }
 
 
