@@ -72,7 +72,7 @@ Your ID must match the one you see on Gauchospace.
 
 ### Communication
 
-**Pleaes do _not_ message the course staff individually**. 
+**Please do _not_ message the course staff individually**. 
 
 Please use the Q&A platform **Piazza** to communicate with the Instructor and course mentors (you can contact us directly via a non-public message addressed to the **Instructors**).
 
@@ -185,8 +185,7 @@ linked [below](#request-for-accommodations).
 You will be required to submit this form separately for all weeks in which you will need the accommodation.
 
 ### Deadline extension for zyBook activities
-During the term, you can request **one extension** for a particular week's activities. Do not contact us via the Piazza forum or via email. Instead, just [submit this form to request an extension]({{ site.exceptions_form }}) and select whether the extension is for the PAs, CAs, and/or LAs.
-* You need to submit this form no later than **within 48 hours** of the respective deadline.
+Do not contact us via the Piazza forum or via email. The **Late Submissions / Partial Score** above covers our policies regarding zyBooks extensions.
 * We will not accept retroactive extension requests for previous weeks.
 * The deadline extensions **do not** apply to the **final project**.
 
@@ -285,7 +284,8 @@ Welcome to CSW 8! :-)
 
 
 ### Update Log
-
+* 04-24:
+    - updated the "Deadline extension for zyBook activities" to be in-sync with the policies of S23
 * 04-15: 
     - The Syllabus was updated to drop more of the participation scores and lower the number of iClicker questions that would count the scores for credit.
     - Added a resource for the "Short Term Loaner Laptop Devices"
