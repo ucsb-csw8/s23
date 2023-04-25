@@ -35,6 +35,10 @@ schedule:
         end: 10:00 AM
         location: Tao
       - name: Office Hours
+        start: 11:30 AM
+        end: 1:30 PM
+        location: Wesley
+      - name: Office Hours
         start: 3:00 PM
         end: 5:00 PM
         location: Carina
