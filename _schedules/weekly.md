@@ -159,13 +159,13 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 8:00 AM
-        end: 10:00 AM
-        location: Pengfei
-      - name: Office Hours
         start: 10:00 AM
         end: 12:00 PM
         location: Carina
+      - name: Office Hours
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Pengfei
       - name: Office Hours
         start: 2:00 PM
         end: 4:00 PM
