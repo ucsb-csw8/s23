@@ -46,26 +46,31 @@ You should see Gradescope labs that you were assigned there. You may click on on
 ![assignments](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s3_assignments.png)
 
 
-### Step 4. Submit: upload your code
+### Step 4. Submit your assignment
 
 When click and open one of the labs, if you haven't submitted anything for an assignment yet, Gradescope will prompt you (with a box and submit button) to upload your files. You can either click inside the box and navigate to your file(s) or "drag-and-drop" them into the "Submit Programming Assignment" window.
 
 ![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s4_submit.png)
 
-### Step 4. Multiple Upload: upload your files
+### Step 5. Upload multiple files at once
 
-![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s4_multiple_upload.png)
+To select multiple files together:
+* Mac: hold down `command` key while clicking on the files you would like to add
+* Windows: hold down `ctrl` key while clicking on the files you would like to add
+
+![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s5_multiple_upload.png)
 
 
-### Step 5. Resubmit (if needed)
+### Step 6. Resubmit (if needed)
 
 If you already submitted something on Gradescope, it will take you to their "Autograder Results" page. For most labs, if everything is correct, you'll see a successful submission passing all of the autograder tests.
 
+![successful_submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s6_sucessful_submit.png)
 
 There is a **"Resubmit" button** on the bottom right that will allow you to update the files for your submission. You have an unlimited number of submissions up until the lab deadline - we will use the grade of the LAST submitted solution you put in! We recommend submitting your assignment early to make sure that you pass all tests.
 
 
-![resubmit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s5_resubmit.png)
+![resubmit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s6_resubmit.png)
 
 
 ---
