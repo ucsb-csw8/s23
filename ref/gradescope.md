@@ -23,9 +23,9 @@ Open your browser and go to <https://www.gradescope.com>
 
 ![Gradescope website](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s0_gradescope-site.png)
 
-### Step 1. Login to your account
+### Step 1. Log in to your account
 
-Login to your gradescope account using your ucsb umail (your_ucsb_netid@umail.ucsb.edu).
+Log in to your gradescope account using your ucsb umail (your_ucsb_netid@umail.ucsb.edu).
 
 ![login using email](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s1_login_email.png)
 
