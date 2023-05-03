@@ -35,7 +35,7 @@ OR choose "log in in with school credentials" and use your ucsb netid to log in.
 
 ### Step 2. Choose the course
 
-After logging in, you should able to see one course or a list of courses. Choose the CS8 course.
+After logging in, you should able to see one course or a list of courses. Choose the **CS8** course.
 
 ![courses](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s2_course.png)
 
