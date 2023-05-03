@@ -35,7 +35,7 @@ OR choose "login in with school credentials" and use your ucsb netid to login.
 
 ### Step 2. Choose the course
 
-After logging in, you should able to see one course or a list of courses. Choose the CS8 course for Spring 23.
+After logging in, you should able to see one course or a list of courses. Choose the CS8 course.
 
 ![courses](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s2_course.png)
 
@@ -48,9 +48,13 @@ You should see Gradescope labs that you were assigned there. You will click on t
 
 ### Step 4. Submit: upload your code
 
-When click and open one of the labs, if you haven't submitted anything for an assignment yet, Gradescope will prompt you (with a box and submit button) to upload your files. You either can either click inside the box and navigate to your file(s) or "drag-and-drop" them into the "Submit Programming Assignment" window.
+When click and open one of the labs, if you haven't submitted anything for an assignment yet, Gradescope will prompt you (with a box and submit button) to upload your files. You can either click inside the box and navigate to your file(s) or "drag-and-drop" them into the "Submit Programming Assignment" window.
 
 ![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s4_submit.png)
+
+### Step 4. Multiple Upload: upload your files
+
+![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s4_multiple_upload.png)
 
 
 ### Step 5. Resubmit (if needed)
