@@ -29,7 +29,7 @@ Log in to your gradescope account using your ucsb umail (your_ucsb_netid@umail.u
 
 ![login using email](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s1_login_email.png)
 
-OR choose "login in with school credentials" and use your ucsb netid to login.
+OR choose "log in in with school credentials" and use your ucsb netid to log in.
 
 ![login using netid](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s1_login_netid.png)
 
