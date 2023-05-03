@@ -58,7 +58,7 @@ To select multiple files together:
 * Mac: hold down `command` key while clicking on the files you would like to add
 * Windows: hold down `ctrl` key while clicking on the files you would like to add
 
-![submit](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s5_multiple_upload.png)
+![multiple_upload](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s5_multiple_upload.png)
 
 
 ### Step 6. Resubmit (if needed)
