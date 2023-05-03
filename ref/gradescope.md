@@ -41,7 +41,7 @@ After logging in, you should able to see one course or a list of courses. Choose
 
 ### Step 3. Choose the assignment to submit
 
-You should see Gradescope labs that you were assigned there. You will click on the one submit your work for that particular lab.
+You should see Gradescope labs that you were assigned there. You may click on one of them and submit your work for that particular lab.
 
 ![assignments](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s3_assignments.png)
 
