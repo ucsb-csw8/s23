@@ -29,7 +29,7 @@ Log in to your gradescope account using your ucsb umail (your_ucsb_netid@umail.u
 
 ![login using email](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s1_login_email.png)
 
-OR choose "log in in with school credentials" and use your ucsb netid to log in.
+OR choose "log in with school credentials" and use your ucsb netid to log in.
 
 ![login using netid](https://ucsb-csw8.github.io/s23/assets/images/gradescope/s1_login_netid.png)
 
@@ -83,7 +83,7 @@ Have a productive week!
 <!-- Acknowledgements
 {: .fs-4 }
 
-* Special thanks to Liubov Kurafeeva and Roman Beltiukov for creating the initial instructions and screenshots.
+* Special thanks to Liubov Kurafeeva and Roman Beltiukov for your helps! 🙏🏼
   {: .fs-3 }
 * Updated W23 by P. Conrad
   {: .fs-3 }
