@@ -83,7 +83,7 @@ Have a productive week!
 <!-- Acknowledgements
 {: .fs-4 }
 
-* Special thanks to Liubov Kurafeeva and Roman Beltiukov for your helps! 🙏🏼
+* Special thanks to Pengfei Xu and Kimia Afshari for creating the initial instructions and screenshots.
   {: .fs-3 }
 * Updated W23 by P. Conrad
   {: .fs-3 }
