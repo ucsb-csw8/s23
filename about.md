@@ -99,7 +99,9 @@ We will also use the following tools:
 ### Grading
     5% Participation Activities (PAs): in zyBook
     15% Challenge Activities (CAs): in zyBook
-    25% Lab Activities (LAs): described in zyBook
+    25% Lab Activities (LAs): posted in zyBook
+       20% Lab Activities (LAs): submitted in zyBook
+       5% Lab Activities submitted via Gradescope
     20% Quizzes: 6-9 quizzes, lowest 1 will be dropped
     25% Final Project submitted via Gradescope
     2% Weekly reflection; 
@@ -163,10 +165,12 @@ It is the responsibility of each student to make sure their activity grades on z
 
 ### Late Submissions / Partial Score
 
-You will receive partial score for your work in zyBooks: e.g., if you are 80% finished with the PAs and CAs for the chapter at the time of the deadline, then that will be your score for that week's activities.
+_There is no partial score for the late submissions for quizzes or the work submitted on Gradescope, unless explicitly stated by the instructor or enabled in the assignment settings._
 
-If you continue to work on the activities past the zyBooks deadline, you will receive 50% of the completed score for any work done **within 1 week of the original deadline**.
-This will happen automatically - no need to ask for an extension, unless it is a documented emergency and you need more than 1 week to complete your work ( see the request for an extension form linked [below](#request-for-accommodations)).
+You will receive partial score for your work **submitted in zyBooks**: e.g., if you are 80% finished with the PAs and CAs for the chapter at the time of the deadline, then that will be your score for that week's activities.
+
+If you continue to work on the activities past the zyBooks deadline, you will receive 50% of the completed score for any work _submitted to zyBooks_ **within 1 week of the original deadline**.
+This will happen automatically - no need to ask for an extension, unless it is a documented emergency and you need more than 1 week to complete your work (see the request for an extension form linked [below](#request-for-accommodations)).
 
 For example:
 * Your Week 4 PA are at 90% and CA are at 60% by the Week 4 deadline, so your gradebook will show PA04 as 90% and CA04 as 60%.
@@ -289,3 +293,7 @@ Welcome to CSW 8! :-)
 * 04-15: 
     - The Syllabus was updated to drop more of the participation scores and lower the number of iClicker questions that would count the scores for credit.
     - Added a resource for the "Short Term Loaner Laptop Devices"
+* 05-12:
+    - made the lab breakdown more explicit about the submissions on zyBooks (20% of the grade) and Gradescope (5% of the grade)
+    - added a clarification that there is no partial credit / late work for quizzes or Gradescope submissions
+
