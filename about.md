@@ -102,7 +102,8 @@ We will also use the following tools:
     25% Lab Activities (LAs): posted in zyBook
        20% Lab Activities (LAs): submitted in zyBook
        5% Lab Activities submitted via Gradescope
-    20% Quizzes: 6-9 quizzes, lowest 1 will be dropped
+    10% Gauchospace Quizzes: 5 quizzes, lowest 1 will be dropped
+    10% Gradescope Quizzes: 3-4 quizzes, lowest 1 will be dropped
     25% Final Project submitted via Gradescope
     2% Weekly reflection; 
        2 lowest/missing will be dropped
@@ -296,4 +297,5 @@ Welcome to CSW 8! :-)
 * 05-12:
     - made the lab breakdown more explicit about the submissions on zyBooks (20% of the grade) and Gradescope (5% of the grade)
     - added a clarification that there is no partial credit / late work for quizzes or Gradescope submissions
-
+* 05-30:
+    - Quizzes category was broken into two: Gradescope and Gauchospace quizzes, each with their own dropped lowest score
