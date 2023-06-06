@@ -8,7 +8,7 @@ seo:
   name: Debugging scenarios and solutions
 ---
 
-!['A cartoon of a fuzzy round monster face showing 10 different emotions experienced during the process of debugging code. The progression goes from (1) “I got this” - looking determined and optimistic; (2) “Huh. Really thought that was it.” - looking a bit baffled; (3) “...” - looking up at the ceiling in thought; (4) “Fine. Restarting.” - looking a bit annoyed; (5) “OH WTF.” Looking very frazzled and frustrated; (6) “Zombie meltdown.” - looking like a full meltdown; (7) (blank) - sleeping; (8) “A NEW HOPE!” - a happy looking monster with a lightbulb above; (9) “insert awesome theme song” - looking determined and typing away; (10) “I love coding” - arms raised in victory with a big smile, with confetti falling.'](https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/debugging.jpg?raw=true "Faces of debugging")
+<img src="{{ site.baseurl }}{{ page.subpath}}/assets/images/debugging.jpeg" alt='A cartoon of a fuzzy round monster face showing 10 different emotions experienced during the process of debugging code. The progression goes from (1) “I got this” - looking determined and optimistic; (2) “Huh. Really thought that was it.” - looking a bit baffled; (3) “...” - looking up at the ceiling in thought; (4) “Fine. Restarting.” - looking a bit annoyed; (5) “OH WTF.” Looking very frazzled and frustrated; (6) “Zombie meltdown.” - looking like a full meltdown; (7) (blank) - sleeping; (8) “A NEW HOPE!” - a happy looking monster with a lightbulb above; (9) “insert awesome theme song” - looking determined and typing away; (10) “I love coding” - arms raised in victory with a big smile, with confetti falling. https://github.com/allisonhorst/stats-illustrations/blob/master/other-stats-artwork/debugging.jpg'>
 Artwork by `@allison_horst`
 {: .fs-2 }
 
@@ -766,6 +766,22 @@ for item in nested_list:
 
 [Back to top](#top)
 
+---
+
+# `ValueError: empty separator`
+*   Example erroneous code:
+```py
+"5  \n  4".split("")
+```
+*   **Cause**:  `str.split()` by default separates the objects using whitespace. If a separator is provided as an input, it needs to be something other than an empty string.
+
+*   Correct code: 
+```py
+# potential solutions
+"5  \n  4".split()
+"5  \n  4".split(" ")
+"5  \n  4".split("\n")
+```
 ---
 
 # `ValueError: invalid literal for int() with base 10`

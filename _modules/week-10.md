@@ -1,6 +1,6 @@
 ---
 title: Week 10
-topic: Exploiting self-similarity (Recursion)
+topic: Storing and Retrieving Data from Files
 ---
 Sun, Jun 4
 : Start: **PA10**{: .label .label-orange }
@@ -10,7 +10,7 @@ Mon, Jun 5
 : 
 
 Tue, Jun 6
-: 09:30am **Class**{: .label .label-purple }
+: 09:30am **Class**{: .label .label-purple }+**Quiz**{: .label .label-red }
 : **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
 
 
@@ -29,5 +29,6 @@ Fri, Jun 9
 
 Sat, Jun 10
 : **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }
+: **11:59pm**  ⏰  Due: **Project Checkpoint 1**{: .label .label-red }
 
 

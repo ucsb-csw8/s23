@@ -1,6 +1,6 @@
 ---
 title: Week 9
-topic: Storing and Retrieving Data from Files
+topic: Exploiting self-similarity (Recursion)
 ---
 Sun, May 28
 : Start: **PA09**{: .label .label-orange }, **CA09**{: .label .label-blue }
@@ -21,7 +21,7 @@ Wed, May 31
 
 
 Thu, Jun 1
-: 09:30am **Class**{: .label .label-purple }+**Quiz**{: .label .label-red }
+: 09:30am **Class**{: .label .label-purple }
 
 
 Fri, Jun 2
